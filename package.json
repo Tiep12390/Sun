@@ -1,0 +1,17 @@
+{
+  "name": "sunwin-taixiu-tool",
+  "version": "1.0.0",
+  "description": "Tool theo dõi kết quả Tài Xỉu từ SunWin",
+  "main": "sun lồn nhị phân đã fix.js",
+  "scripts": {
+    "start": "node \"sun lồn nhị phân đã fix.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "binhtool90",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ws": "^8.15.1"
+  }
+}
